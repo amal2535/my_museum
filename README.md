@@ -1,10 +1,15 @@
 # Titre de notre projet
 
 Mon musée
+![capture1](https://user-images.githubusercontent.com/118480136/236536748-c202d957-eac7-4b74-9253-f9eeabf52a69.PNG)
+
 
 ## Description
 
 Ce projet est composé d’ une application web contenant des fonctionnalités d'un site web dynamique  qui est composée de 2 compartiments (Utilisateur et administrateur )et  une application mobile Android  dans le but d’informer les touristes et même les locuteurs natifs des musées existants en Tunisie. 
+
+![Capture2](https://user-images.githubusercontent.com/118480136/236536813-eec0603a-bc99-4ab0-9c3d-14796bcb6a6e.PNG)
+
 
 
 ## Installation
@@ -63,13 +68,15 @@ python manage.py runserver
 
 > ⚠  Ensuite, le serveur de développement sera démarré à l'adresse http://127.0.0.1:8000/.
 
+![capture3](https://user-images.githubusercontent.com/118480136/236536929-d2fa6857-d426-4192-a9e7-529ebf94a7c8.PNG)
+
 
 ## Crédits
 
-Liste des contributeurs, y compris leurs rôles et responsabilités:
+Liste des contributeurs:
 
-Amal Maatoug + Ahmed Zahaf : partie web
-Imen khalil + Tassnim Chiba : partie mobile
+* Amal Maatoug 
+* Ahmed Zahaf 
 
 ## Références
 
