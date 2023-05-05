@@ -1,4 +1,4 @@
-#My_museum
+#MyMuseum
 
 ![capture1](https://user-images.githubusercontent.com/118480136/236536748-c202d957-eac7-4b74-9253-f9eeabf52a69.PNG)
 
