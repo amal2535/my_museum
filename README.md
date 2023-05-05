@@ -67,6 +67,9 @@ python manage.py runserver
 
 > ⚠  Ensuite, le serveur de développement sera démarré à l'adresse http://127.0.0.1:8000/.
 
+![image_2023-05-05_192022375](https://user-images.githubusercontent.com/118480136/236537496-b5ab9b9c-35de-494d-b250-2ca1fd89495f.png)
+
+
 ![capture3](https://user-images.githubusercontent.com/118480136/236536929-d2fa6857-d426-4192-a9e7-529ebf94a7c8.PNG)
 
 
